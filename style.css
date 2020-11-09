@@ -1,0 +1,23 @@
+body {
+  display: flex;
+
+}
+
+header {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20%;
+}
+
+article {
+  display: grid;
+}
+
+footer {
+  display: grid;
+}
+
+nav {
+  display: flex;
+  flex-direction: row
+}
